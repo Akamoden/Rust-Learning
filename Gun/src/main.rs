@@ -9,6 +9,8 @@
 //todo : create a function to fire the gun and decrease ammo count
 //todo : create a function to reload the gun and reset ammo count
 // Caliber enum - can't use strings as variant names, use words instead
+
+// todo : create funttions for all the models of guns to stop the warnings in complier.
 enum Caliber {
     Mm762,   // 7.62mm
     Mm556,   // 5.56mm
